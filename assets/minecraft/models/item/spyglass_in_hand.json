@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Ty",
 	"textures": {
 		"spyglass": "item/spyglass_model"
 	},
@@ -113,11 +113,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7, 4.4, 8.75],
-=======
 			"from": [7, 2.4, 8.75],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [9, 8.4, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
@@ -130,11 +126,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7, 4.4, 7],
-=======
 			"from": [7, 2.4, 7],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [9, 8.4, 7.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
@@ -147,11 +139,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7, 4.4, 7.25],
-=======
 			"from": [7, 2.4, 7.25],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [7.25, 8.4, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
@@ -164,11 +152,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [8.75, 4.4, 7.25],
-=======
 			"from": [8.75, 2.4, 7.25],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [9, 8.4, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
@@ -181,13 +165,8 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7.25, 4.5, 7.25],
-			"to": [8.75, 4.5, 8.75],
-=======
 			"from": [7.25, 2.5, 7.25],
 			"to": [8.75, 4.4, 8.75],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
 				"north": {"uv": [4, 2, 6, 4], "texture": "#spyglass"},
@@ -277,11 +256,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7.25, 4.4, 6.85],
-=======
 			"from": [7.25, 2.4, 6.85],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [8.75, 8.4, 7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.1, 0, 0.1]},
 			"faces": {
@@ -294,11 +269,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [9, 4.4, 7.25],
-=======
 			"from": [9, 2.4, 7.25],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [9.15, 8.4, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [9, 6.35, 7]},
 			"faces": {
@@ -324,11 +295,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [6.85, 4.4, 7.25],
-=======
 			"from": [6.85, 2.4, 7.25],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [7, 8.4, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 6.35, 7.5]},
 			"faces": {
@@ -484,11 +451,7 @@
 			}
 		},
 		{
-<<<<<<< HEAD
-			"from": [7.25, 4.4, 9],
-=======
 			"from": [7.25, 2.4, 9],
->>>>>>> 56b30c77dd633dd0ccfff64f931c5c305dc6cccd
 			"to": [8.75, 8.4, 9.15],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 6.35, 7.5]},
 			"faces": {
@@ -504,8 +467,7 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -3.25, 1],
-			"scale": [1.25, 1.25, 1.25]
+			"translation": [0, -2, 1]
 		},
 		"firstperson_righthand": {
 			"translation": [0.25, 0.25, 0]
